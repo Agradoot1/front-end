@@ -1,2 +1,2 @@
-# front-end
-movie recommendation system built using Flask and React.
+Project with Flask and React
+Movie Recommendation System with Flask (backend) and React (frontend)
