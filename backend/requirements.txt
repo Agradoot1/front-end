@@ -1,0 +1,9 @@
+
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+marshmallow
+marshmallow-sqlalchemy
+pandas
+scikit-learn
+axios
